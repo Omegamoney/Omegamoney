@@ -13,5 +13,4 @@
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omegamoney&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omegamoney&theme=dark&layout=compact&hide_border=true)
 ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Omegamoney&theme=onedark&margin-w=15&margin-h=15&column=7)
