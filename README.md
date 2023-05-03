@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Stellar
 
-<!--
-**Omegamoney/Omegamoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm currently studying software engineering in UMC.
+- 🔭 I'm currently working on TeraCorporation.
+- 🌱 I'm learning Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me on Discord!
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/256800447891767296)](https://discord.com/users/256800447891767296)
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omegamoney&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omegamoney&theme=dark&layout=compact&hide_border=true)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Omegamoney&theme=onedark&margin-w=15&margin-h=15&column=7)
