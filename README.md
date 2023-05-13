@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 I'm currently studying software engineering in UMC.
+- 🎓 I'm currently studying software engineering at UMC.
 - 🔭 I'm currently working on TeraCorporation.
 - 🌱 I'm learning Java.
 
