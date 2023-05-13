@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 I'm currently studying software engineering at UMC.
-- 🔭 I'm currently working on TeraCorporation.
+- 🔭 I'm currently working at TeraCorporation.
 - 🌱 I'm learning Java.
 
 ## Contact me on Discord!
