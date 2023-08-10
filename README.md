@@ -4,7 +4,8 @@
 
 - 🎓 I'm currently studying software engineering at UMC.
 - 🔭 I'm currently working at TeraCorporation.
-- 🌱 I'm learning Java.
+- 🌟 Proficient in Python.
+- 🌱 Ocasionally work with JS.
 
 ## Contact me on Discord!
 
