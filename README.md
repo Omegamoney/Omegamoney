@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 I'm currently studying software engineering at UMC.
+- 🎓 I'm currently studying Cyber Security at FIAP.
 - 🔭 I'm currently working at TeraCorporation.
 - 🌟 Proficient in Python.
 - 🌱 Ocasionally work with JS.
